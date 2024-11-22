@@ -42,9 +42,6 @@ project-folder/ │ ├── index.html # Main HTML file ├── index.css # 
 ## How to Contribute
 Feel free to fork this repository and make it your own! Suggestions, bug fixes, and improvements are always welcome. Submit a pull request or open an issue to get involved.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
 Enjoy learning and experimenting! 🍰
